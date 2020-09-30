@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "286681073165",
+    "firebase_url": "https://videosinproject.firebaseio.com",
+    "project_id": "videosinproject",
+    "storage_bucket": "videosinproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286681073165:android:35e1c09d74607975e47744",
+        "android_client_info": {
+          "package_name": "com.videosin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286681073165-bpoho4c4skdnojc3aooq92vmkj5euoj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeRDgAGs2-Gbs6aSbVyqiti22rMqJaIOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286681073165-bpoho4c4skdnojc3aooq92vmkj5euoj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
